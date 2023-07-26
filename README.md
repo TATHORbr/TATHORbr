@@ -1,7 +1,7 @@
 
 ## Ola sou Ítalo, estou estudando programação e tecnologia.
 
-- Atualmente estudando Programação em **PYTHON 3** 
+- Atualmente estudando Analise e Desenvolvimento de Sistemas e Certificação em Programação **PYTHON 3** 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
