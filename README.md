@@ -8,6 +8,7 @@
 
 💻 Tecnologias que estou explorando:
 - Python (Flask, Django)
+- SQL
 
 
 🌱 Objetivos:
