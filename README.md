@@ -5,17 +5,31 @@
 - 🔍 Estou em constante aprendizado e apaixonado por tecnologia! Atualmente, estou me aprofundando no desenvolvimento em Python e em como gerenciar e otimizar bancos de dados. Minha jornada na programação é impulsionada pela curiosidade e desejo de resolver problemas reais por meio da tecnologia.
 
 💻 Tecnologias que estou explorando:
-
-Python (Flask, Django)
+- Python (Flask, Django)
 
 🌱 Objetivos:
+- Desenvolver projetos que tenham um impacto positivo.
+- Contribuir para projetos de código aberto.
+- Continuar a aprimorar minhas habilidades e tornar-me um desenvolvedor completo.
 
-Desenvolver projetos que tenham um impacto positivo.
-Contribuir para projetos de código aberto.
-Continuar a aprimorar minhas habilidades e tornar-me um desenvolvedor completo.
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
 </div>
  
  ##
