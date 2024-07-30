@@ -2,6 +2,18 @@
 ## Ola sou Ítalo, estou estudando programação e tecnologia.
 
 - Atualmente estudando Analise e Desenvolvimento de Sistemas e Certificação em Programação **PYTHON 3** 
+🔍 Estou em constante aprendizado e apaixonado por tecnologia! Atualmente, estou me aprofundando no desenvolvimento em Python e em como gerenciar e otimizar bancos de dados. Minha jornada na programação é impulsionada pela curiosidade e desejo de resolver problemas reais por meio da tecnologia.
+
+💻 Tecnologias que estou explorando:
+
+Python (Flask, Django)
+
+🌱 Objetivos:
+
+Desenvolver projetos que tenham um impacto positivo.
+Contribuir para projetos de código aberto.
+Continuar a aprimorar minhas habilidades e tornar-me um desenvolvedor completo.
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
